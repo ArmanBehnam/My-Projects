@@ -255,14 +255,4 @@ jupyter noterbook
 
 This will open a webpage in the browser from there you can click on notebook.ipynb to view it.
 
-  
 
-  
-
-## License
-
-  
-
-  
-
-This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) file for details.
