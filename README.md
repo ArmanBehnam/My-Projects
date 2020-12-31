@@ -1,7 +1,7 @@
 
   
 
-# Battle of Neighborhoods in Manhattan
+# Welcome to Arman Behnam Projects!!
 
   
 
@@ -15,16 +15,13 @@
 
   
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/AkashSDas)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ArmanBehnam)
 
   
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/AkashSDas)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/ArmanBehnam)
 
-  
-
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE)
-
+ 
   
 
   
