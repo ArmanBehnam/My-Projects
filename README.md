@@ -45,9 +45,6 @@
   
 
 *  [Installation](#installation)
-  
-
-*  [License](#license)
 
   
 
